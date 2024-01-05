@@ -1,0 +1,613 @@
+[
+  {
+    "name": "Fashion",
+    "id": 1,
+    "subcategories": [
+      {
+        "name": "Men's Top Wear",
+        "id": 2,
+        "subcategories": [
+          { "name": "More in Men's Top Wear", "id": 13 },
+          { "name": "All", "id": 14 },
+          { "name": "Men's T-Shirts", "id": 15 },
+          { "name": "Men's Casual Shirts", "id": 16 },
+          { "name": "Men's Kurtas", "id": 17 },
+          { "name": "Men's Ethnic Sets", "id": 18 },
+          { "name": "Men's Blazers", "id": 19 },
+          { "name": "Men's Raincoat", "id": 20 },
+          { "name": "Men's Windcheaters", "id": 21 },
+          { "name": "Men's Suit", "id": 22 },
+          { "name": "Men's Formal Shirts", "id": 23 },
+          { "name": "Men's Fabrics", "id": 24 }
+        ]
+      },
+      {
+        "name": "Men's Bottom Wear",
+        "id": 3,
+        "subcategories": [
+          { "name": "More in Men's Bottom Wear", "id": 25 },
+          { "name": "All", "id": 26 },
+          { "name": "Men's Jeans", "id": 27 },
+          { "name": "Men's Trousers", "id": 28 },
+          { "name": "Men's Track Pants", "id": 29 },
+          { "name": "Men's Shorts", "id": 30 },
+          { "name": "Men's Cargos", "id": 31 },
+          { "name": "Men's Threefourths", "id": 32 },
+          { "name": "Men's Loungepants", "id": 33 },
+          { "name": "Men's Dhoti", "id": 34 },
+          { "name": "Men's Ethnic Pyjama", "id": 35 }
+        ]
+      },
+      {
+        "name": "Women Ethnic",
+        "id": 4,
+        "subcategories": [
+          { "name": "More in Women Ethnic", "id": 36 },
+          { "name": "All", "id": 37 },
+          { "name": "Women Sarees", "id": 38 },
+          { "name": "Women Kurtis", "id": 39 },
+          { "name": "Women Salwar Suits", "id": 40 },
+          { "name": "Ethnic Dresses", "id": 41 },
+          { "name": "Women Dress Materials", "id": 42 },
+          { "name": "Women Gowns", "id": 43 },
+          { "name": "Women Lehanga", "id": 44 },
+          { "name": "Women Patialas", "id": 45 },
+          { "name": "Women Palazzos", "id": 46 },
+          { "name": "Women Blouse", "id": 47 },
+          { "name": "Women Tuppata", "id": 47 }
+        ]
+      },
+      {
+        "name": "Women Western",
+        "id": 5,
+        "subcategories": [
+          { "name": "More in Women Western", "id": 48 },
+          { "name": "All", "id": 49 },
+          { "name": "Women Tops", "id": 50 },
+          { "name": "Women T-Shirts", "id": 51 },
+          { "name": "Women Jeans", "id": 52 },
+          { "name": "Ethnic Nighties", "id": 53 },
+          { "name": "Women Night Suits", "id": 54 },
+          { "name": "Women Track Pants", "id": 55 },
+          { "name": "Women Trouser", "id": 56 },
+          { "name": "Women Jumpsuit", "id": 57 },
+          { "name": "Women Shape Wear", "id": 58 },
+          { "name": "Women Sports Bra", "id": 59 }
+        ]
+      },
+      {
+        "name": "Men Footwear",
+        "id": 6,
+        "subcategories": [
+          { "name": "More in Men Foot Wear", "id": 60 },
+          { "name": "Boys Innerwear", "id": 61 },
+          { "name": "All", "id": 62 },
+          { "name": "Men's Sport Shoes", "id": 63 },
+          { "name": "Men's Casual Shoes", "id": 64 },
+          { "name": "Men's Sandals", "id": 65 },
+          { "name": "Men's Flip Flops", "id": 66 },
+          { "name": "Men's Formal Shoes", "id": 67 },
+          { "name": "Men's Ethnic Shoes", "id": 68 },
+          { "name": "Shoe care", "id": 69 }
+        ]
+      },
+      {
+        "name": "Women Footwear",
+        "id": 7,
+        "subcategories": [
+          { "name": "More in Women Footwear", "id": 70 },
+          { "name": "All", "id": 71 },
+          { "name": "Women Flats", "id": 72 },
+          { "name": "Women Heels", "id": 73 },
+          { "name": "Women Wedges", "id": 74 },
+          { "name": "Women Slippers", "id": 75 },
+          { "name": "Women Casual shoes", "id": 76 },
+          { "name": "Women Sports Shoes", "id": 77 },
+          { "name": "Women Ballerinas", "id": 78 },
+          { "name": "Women Ethnic Shoes", "id": 79 },
+          { "name": "Women Sneakers", "id": 80 },
+          { "name": "Women Boots", "id": 81 }
+        ]
+      },
+      {
+        "name": "Watches and Accessories",
+        "id": 8,
+        "subcategories": [
+          { "name": "More in Watshes & Accessories", "id": 82 },
+          { "name": "Men & Women Watches", "id": 83 },
+          { "name": "Men & Women Sunglasses", "id": 84 },
+          { "name": "Wallets", "id": 85 },
+          { "name": "Men & Women Belts", "id": 86 },
+          { "name": "Men & Women Fashion Jwellery", "id": 87 },
+          { "name": "Precious Articles", "id": 88 },
+          { "name": "Kids Accessories", "id": 89 }
+        ]
+      },
+      {
+        "name": "Bags,Suitcases & Luggage",
+        "id": 9,
+        "subcategories": [
+          { "name": "More in Suitcase & Luggage", "id": 90 },
+          { "name": "All", "id": 100 },
+          { "name": "Handbags", "id": 91 },
+          { "name": "Backpacks", "id": 92 },
+          { "name": "Tote Bags", "id": 93 },
+          { "name": "Laptop Cases & Bag", "id": 94 },
+          { "name": "Folding Cases & Bag", "id": 95 },
+          { "name": "Leather Wallet", "id": 96 },
+          { "name": "Suits & Blazers Briefcases", "id": 97 },
+          { "name": "Shopping Bags", "id": 98 },
+          { "name": "Crossbody Bags", "id": 99 }
+        ]
+      },
+      {
+        "name": "Kids",
+        "id": 10,
+        "subcategories": [
+          { "name": "More in Kids", "id": 101 },
+          { "name": "All", "id": 102 },
+          { "name": "Girl's Dresses", "id": 103 },
+          { "name": "Boys & Girl's T-Shirts", "id": 104 },
+          { "name": "Boys & Girl's Combo Sets", "id": 105 },
+          { "name": "Boys & Girl's Ethnic Wear", "id": 106 },
+          { "name": "Boys & Girl's Jeans", "id": 107 },
+          { "name": "Boys & Girl's Shirts", "id": 108 },
+          { "name": "Boys & Girl's Trackpants", "id": 109 },
+          { "name": "Boys & Girl's Innerwear", "id": 110 },
+          { "name": "Infant wear", "id": 111 },
+          { "name": "Kids Slippers", "id": 112 },
+          { "name": "Kids Sports Shoes", "id": 113 }
+        ]
+      },
+      {
+        "name": "Essentials",
+        "id": 11
+      },
+      {
+        "name": "Winter",
+        "id": 12,
+        "subcategories": [
+          { "name": "More in Winter", "id": 114 },
+          { "name": "All", "id": 115 },
+          { "name": "Men's Jackets", "id": 116 },
+          { "name": "Men's Sweat Shirts", "id": 117 },
+          { "name": "Men's Sweaters", "id": 118 },
+          { "name": "Men's Thermats", "id": 119 },
+          { "name": "Women's Jackets", "id": 120 },
+          { "name": "Women's Sweat Shirts", "id": 121 },
+          { "name": "Women's Sweaters", "id": 122 },
+          { "name": "Women's Shrugs", "id": 123 },
+          { "name": "Kid's Sweaters", "id": 124 },
+          { "name": "Kids Sweat Shirts", "id": 125 },
+          { "name": "Kids Jackets", "id": 126 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Electronics",
+    "id": 127,
+    "subcategories": [
+      {
+        "name": "Audio",
+        "id": 128,
+        "subcategories": [
+          { "name": "More in Audio", "id": 129 },
+          { "name": "All", "id": 130 },
+          { "name": "Bluetooth Headphones", "id": 131 },
+          { "name": "Wired Headphones", "id": 132 },
+          { "name": "True Wireless Earbuds", "id": 133 },
+          { "name": "Bluetooth Speakers", "id": 134 },
+          { "name": "Soundbars", "id": 135 },
+          { "name": "Home Theatres", "id": 136 },
+          { "name": "TV Streaming Device", "id": 137 },
+          { "name": "Remote Control", "id": 138 },
+          { "name": "DTH Set top box", "id": 139 },
+          { "name": "Headphones,Pouch & Covers", "id": 140 }
+        ]
+      },
+      {
+        "name": "Electronics GST Store",
+        "id": 141
+      },
+      {
+        "name": "Camers & Accessories",
+        "id": 142,
+        "subcategories": [
+          { "name": "More in Cameras & Accessories", "id": 143 },
+          { "name": "All", "id": 144 },
+          { "name": "DSLR & Mirrorless", "id": 145 },
+          { "name": "Sports & Action", "id": 146 },
+          { "name": "Point & Shoot", "id": 147 },
+          { "name": "Instant Cameras", "id": 148 },
+          { "name": "Camcorders", "id": 149 },
+          { "name": "Camera tripods", "id": 150 },
+          { "name": "Camera Lenses", "id": 151 },
+          { "name": "Drone", "id": 152 },
+          { "name": "Flashes", "id": 153 },
+          { "name": "Glimbals", "id": 154 }
+        ]
+      },
+      {
+        "name": "Computer Peripherals",
+        "id": 155,
+        "subcategories": [
+          { "name": "More in Computer Peripherals", "id": 156 },
+          { "name": "All", "id": 157 },
+          { "name": "Printers", "id": 158 },
+          { "name": "Monitos", "id": 159 },
+          { "name": "Projectors", "id": 160 },
+          { "name": "Portable Projectors", "id": 161 },
+          { "name": "Ink Catridges", "id": 162 },
+          { "name": "Ink Bottles", "id": 163 },
+          { "name": "Reciept Printers", "id": 164 },
+          { "name": "Lamination Machines", "id": 165 },
+          { "name": "Note Counting Machines", "id": 166 },
+          { "name": "Barcode Scanners", "id": 167 }
+        ]
+      },
+      {
+        "name": "Gaming",
+        "id": 168,
+        "subcategories": [
+          { "name": "More in gaming", "id": 169 },
+          { "name": "All", "id": 170 },
+          { "name": "Gaming Consoles", "id": 171 },
+          { "name": "Gaming Mouse", "id": 172 },
+          { "name": "Gaming keyboards", "id": 173 },
+          { "name": "Game Pads", "id": 174 },
+          { "name": "Games", "id": 175 },
+          { "name": "Accessory kits", "id": 176 },
+          { "name": "Gaming Accessories Combo", "id": 177 },
+          { "name": "Gaming Mouse Pads", "id": 178 },
+          { "name": "Membership Cards", "id": 179 },
+          { "name": "Controllers", "id": 180 }
+        ]
+      },
+      {
+        "name": "Health & Personal Care",
+        "id": 181,
+        "subcategories": [
+          { "name": "More in Health & Personal Care", "id": 182 },
+          { "name": "All", "id": 183 },
+          { "name": "Trimmers", "id": 184 },
+          { "name": "Shavers", "id": 185 },
+          { "name": "Hair Straighteners", "id": 186 },
+          { "name": "Hair Dryers", "id": 187 },
+          { "name": "Epilators", "id": 188 },
+          { "name": "Blood Pressure Monitors", "id": 189 },
+          { "name": "Glucometers", "id": 190 },
+          { "name": "Digital Thermometers", "id": 191 },
+          { "name": "Weighing Scales", "id": 192 },
+          { "name": "Massagers", "id": 193 }
+        ]
+      },
+      {
+        "name": "Mobile Accessories",
+        "id": 194,
+        "subcategories": [
+          { "name": "More in Mobile Accessories", "id": 195 },
+          { "name": "All", "id": 196 },
+          { "name": "Plain Cases", "id": 197 },
+          { "name": "Designer Cases", "id": 198 },
+          { "name": "Screen Gaurds", "id": 199 },
+          { "name": "Camera Lens Protectors", "id": 200 },
+          { "name": "Tablet Accessories", "id": 201 },
+          { "name": "Mobile Cables", "id": 202 },
+          { "name": "Mobile Charger", "id": 203 },
+          { "name": "Mobile Pouches", "id": 204 },
+          { "name": "Mobile flash", "id": 205 },
+          { "name": "Mobile Holder", "id": 206 }
+        ]
+      },
+      {
+        "name": "Powerbank",
+        "id": 207,
+        "subcategories": [
+          { "name": "More in Powerbank", "id": 208 },
+          { "name": "All", "id": 209 },
+          { "name": "Powerbank", "id": 210 }
+        ]
+      },
+      {
+        "name": "Smart Home Automation",
+        "id": 211,
+        "subcategories": [
+          { "name": "More in Smart Home Automation", "id": 212 },
+          { "name": "All", "id": 213 },
+          { "name": "Smart Assistance", "id": 214 },
+          { "name": "Smart Lights", "id": 215 },
+          { "name": "Smart Cameras", "id": 216 },
+          { "name": "Smart Switches", "id": 217 },
+          { "name": "Smart Door Lock", "id": 218 }
+        ]
+      },
+      {
+        "name": "Smart Wearables",
+        "id": 219,
+        "subcategories": [
+          { "name": "More in Smart Wearables", "id": 220 },
+          { "name": "Smart Bands", "id": 221 },
+          { "name": "Smart glasses", "id": 222 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Home",
+    "id": 223,
+    "subcategories": [
+      {
+        "name": "Home Furnishings",
+        "id": 224,
+        "subcategories": [
+          { "name": "More in Home Furnishings", "id": 225 },
+          { "name": "All", "id": 226 },
+          { "name": "Bed Linens", "id": 227 },
+          { "name": "Bed Sheets", "id": 228 },
+          { "name": "Blankets", "id": 229 },
+          { "name": "Curtains", "id": 230 },
+          { "name": "Bath Linen", "id": 231 },
+          { "name": "Floor Coverings", "id": 232 },
+          { "name": "Cushions", "id": 233 },
+          { "name": "Pillows", "id": 234 },
+          { "name": "Table Linen Sets", "id": 235 },
+          { "name": "Kitchen Linen", "id": 236 }
+        ]
+      },
+      {
+        "name": "Furniture Studio",
+        "id": 237
+      },
+      {
+        "name": "Living Room Furniture",
+        "id": 238,
+        "subcategories": [
+          { "name": "More in Living Room Furniture", "id": 239 },
+          { "name": "TV Units", "id": 240 },
+          { "name": "Sofa sets", "id": 241 },
+          { "name": "Dining Sets", "id": 242 },
+          { "name": "Sofa Beds", "id": 243 },
+          { "name": "Living Room Cgairs", "id": 244 },
+          { "name": "Drawers", "id": 245 },
+          { "name": "Shoe Racks", "id": 246 },
+          { "name": "Book Shelves", "id": 247 }
+        ]
+      },
+      {
+        "name": "Kitchen & Dining",
+        "id": 248,
+        "subcategories": [
+          { "name": "More in Kitchen & Dining", "id": 249 },
+          { "name": "All", "id": 250 },
+          { "name": "Cookware", "id": 251 },
+          { "name": "Knives", "id": 252 },
+          { "name": "Cutters", "id": 253 },
+          { "name": "Gas stoves", "id": 254 },
+          { "name": "Kitchen Storage", "id": 255 },
+          { "name": "Grinders", "id": 256 },
+          { "name": "Barware", "id": 257 },
+          { "name": "Bakeware", "id": 258 },
+          { "name": "]Outdoor Cooking", "id": 259 }
+        ]
+      },
+      {
+        "name": "Bedroom Furniture",
+        "id": 260,
+        "subcategories": [
+          { "name": "More in Bedroom Furniture", "id": 261 },
+          { "name": "Mattresses", "id": 262 },
+          { "name": "Beds", "id": 263 },
+          { "name": "Wardrobes", "id": 264 },
+          { "name": "Side Tables", "id": 265 },
+          { "name": "TV units", "id": 266 },
+          { "name": "Office Chairs", "id": 267 },
+          { "name": "Office Tables", "id": 268 },
+          { "name": "Bar Cabinets", "id": 269 },
+          { "name": "Bar Stools", "id": 270 },
+          { "name": "Benches", "id": 271 },
+          { "name": "Rocking Chairs", "id": 272 }
+        ]
+      },
+      {
+        "name": "Home Decor",
+        "id": 273,
+        "subcategories": [
+          { "name": "More in Home Decor", "id": 274 },
+          { "name": "All", "id": 275 },
+          { "name": "Lightings", "id": 276 },
+          { "name": "Stickers", "id": 277 },
+          { "name": "Paintings", "id": 278 },
+          { "name": "Clocks", "id": 279 },
+          { "name": "Flowers", "id": 280 },
+          { "name": "Home Fragrances", "id": 281 },
+          { "name": "Windshields", "id": 282 },
+          { "name": "Photo Frames", "id": 283 },
+          { "name": "Candles", "id": 284 }
+        ]
+      },
+      {
+        "name": "Workspace Furniture",
+        "id": 285
+      },
+      {
+        "name": "Kids Furniture",
+        "id": 286
+      },
+      {
+        "name": "Cleaning & Bath",
+        "id": 287,
+        "subcategories": [
+          { "name": "More in Cleaning & Bath", "id": 288 },
+          { "name": "All", "id": 289 },
+          { "name": "Mops", "id": 290 },
+          { "name": "Cleaning Supplies", "id": 291 },
+          { "name": "Air Fresheners", "id": 292 },
+          { "name": "Cleaning Glouse", "id": 293 },
+          { "name": "Detergents", "id": 294 },
+          { "name": "Taps", "id": 295 },
+          { "name": "Toothbrush Holders", "id": 296 },
+          { "name": "Bathroom rack", "id": 297 },
+          { "name": "Shower", "id": 298 }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Beauty,Toys & More",
+    "id": 299,
+    "subcategories": [
+      {
+        "name": "Beauty & Personal care",
+        "id": 300,
+        "subcategories": [
+          { "name": "More in Beauty & Personal Care", "id": 301 },
+          { "name": "All", "id": 302 },
+          { "name": "Bath & Oral Care", "id": 303 },
+          { "name": "Personal Hygiene", "id": 304 },
+          { "name": "Eye Makeup", "id": 305 },
+          { "name": "Face Makeup", "id": 306 },
+          { "name": "Lip Makeup", "id": 307 },
+          { "name": "Hair Care", "id": 308 },
+          { "name": "Body Care", "id": 309 },
+          { "name": "Skin Care", "id": 310 },
+          { "name": "Women Personal Hygiene", "id": 311 }
+        ]
+      },
+      {
+        "name": "Men's Grooming",
+        "id": 312,
+        "subcategories": [
+          { "name": "More in Men's Grooming", "id": 313 },
+          { "name": "All", "id": 314 },
+          { "name": "Face Washes", "id": 315 },
+          { "name": "Beard Oils", "id": 316 },
+          { "name": "Hair Styling", "id": 317 },
+          { "name": "Shaving Essentials", "id": 318 },
+          { "name": "Aftershave", "id": 319 },
+          { "name": "Face cream", "id": 320 },
+          { "name": "Soaps", "id": 321 },
+          { "name": "Sexual Wellness", "id": 322 }
+        ]
+      },
+      {
+        "name": "Food & Drinks",
+        "id": 323,
+        "subcategories": [
+          { "name": "More inFood & Drinks", "id": 324 },
+          { "name": "All", "id": 325 },
+          { "name": "Nuts", "id": 326 },
+          { "name": "Dry Fruits", "id": 327 },
+          { "name": "Breakfast  Items", "id": 328 },
+          { "name": "Snacks", "id": 329 },
+          { "name": "Jams", "id": 330 },
+          { "name": "Sweets", "id": 331 },
+          { "name": "Chocolates", "id": 332 },
+          { "name": "Honey", "id": 333 },
+          { "name": "Baking Essentials", "id": 334 }
+        ]
+      },
+      {
+        "name": "Nutrition & Healthcare",
+        "id": 335
+      },
+      {
+        "name": "Babycare",
+        "id": 336,
+        "subcategories": [
+          { "name": "More in Baby Care", "id": 337 },
+          { "name": "All", "id": 338 },
+          { "name": "Baby Diapers", "id": 339 },
+          { "name": "Baby wipes", "id": 340 },
+          { "name": "Baby Baths", "id": 341 },
+          { "name": "Baby Gift Set", "id": 342 },
+          { "name": "Baby medical", "id": 343 },
+          { "name": "Nursing", "id": 344 },
+          { "name": "Feeding Bottles", "id": 345 },
+          { "name": "Baby Food", "id": 346 },
+          { "name": "Baby Bedding", "id": 347 }
+        ]
+      },
+      {
+        "name": "Toys",
+        "id": 348,
+        "subcategories": [
+          { "name": "More in Toys", "id": 349 },
+          { "name": "All", "id": 350 },
+          { "name": "Remote Control Toys", "id": 351 },
+          { "name": "Puzzles", "id": 352 },
+          { "name": "Soft Toys", "id": 353 },
+          { "name": "Board Games", "id": 354 },
+          { "name": "Cars", "id": 355 },
+          { "name": "Baby Toys", "id": 356 },
+          { "name": "Gifting Toys", "id": 357 },
+          { "name": "Baby School Bags", "id": 358 },
+          { "name": "School Supplies", "id": 359 }
+        ]
+      },
+      {
+        "name": "Sports & Fitness",
+        "id": 360,
+        "subcategories": [
+          { "name": "More in Sports & Fitness", "id": 361 },
+          { "name": "All", "id": 362 },
+          { "name": "Cricket", "id": 363 },
+          { "name": "Volleyball", "id": 364 },
+          { "name": "Football", "id": 365 },
+          { "name": "Tennis", "id": 366 },
+          { "name": "Yoga", "id": 367 },
+          { "name": "Dumbbles", "id": 368 },
+          { "name": "Gym Gloves", "id": 369 },
+          { "name": "Fitness Equipments", "id": 370 },
+          { "name": "Cycling", "id": 371 }
+        ]
+      },
+      {
+        "name": "Books",
+        "id": 372,
+        "subcategories": [
+          { "name": "More in Books", "id": 373 },
+          { "name": "All", "id": 374 },
+          { "name": "Test Prep", "id": 375 },
+          { "name": "Academics", "id": 376 },
+          { "name": "Literature", "id": 377 },
+          { "name": "Non Fiction", "id": 378 },
+          { "name": "Young Readers", "id": 379 }
+        ]
+      },
+      {
+        "name": "Music",
+        "id": 380,
+        "subcategories": [
+          { "name": "More in Music", "id": 381 },
+          { "name": "Musical Instuments", "id": 382 },
+          { "name": "Music & Tv Shows", "id": 383 },
+          { "name": "Guitars", "id": 384 },
+          { "name": "Violin", "id": 385 },
+          { "name": "Microphones", "id": 386 },
+          { "name": "Studio", "id": 387 },
+          { "name": "Indian Instruments", "id": 388 },
+          { "name": "Wind Instuments", "id": 389 },
+          { "name": "Musical Keyboards", "id": 390 }
+        ]
+      },
+      {
+        "name": "Stationery",
+        "id": 391,
+        "subcategories": [
+          { "name": "More in Stationery", "id": 392 },
+          { "name": "All", "id": 393 },
+          { "name": "Pens", "id": 394 },
+          { "name": "Notebooks", "id": 395 },
+          { "name": "Calculators", "id": 396 },
+          { "name": "Keychains", "id": 397 },
+          { "name": "Card Holders", "id": 398 },
+          { "name": "Desk Organizers", "id": 399 },
+          { "name": "Office Supplies", "id": 400 },
+          { "name": "Party Supplies", "id": 401 },
+          { "name": "Office Equipments", "id": 402 }
+        ]
+      }
+    ]
+  }
+]
